@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Train
+comment1.params=
+comment1.target=Train()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Train\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ switchImage()
+comment3.text=\r\n\ switchImage()\ -\ to\ make\ the\ disappearance\ of\ the\ train\ realistic\r\n
+comment4.params=
+comment4.target=void\ removeLumi()
+comment4.text=\r\n\ removeLumi()\ -\ to\ remove\ Lumi\ from\ the\ World\ and\ bring\ him\ back\ to\ his\ initial\ position\ in\ that\ level.\r\n
+comment5.params=
+comment5.target=void\ deductLife()
+comment5.text=\r\n\ deductLife()\ -\ to\ remove\ points\ when\ Lumi\ touches\ the\ train\r\n
+comment6.params=
+comment6.target=void\ reviveLumi()
+comment6.text=\r\n\ reviveLumi()\ -\ bring\ back\ Lumi\ if\ life\ count\ is\ higher\ than\ 0.\r\n
+comment7.params=
+comment7.target=void\ printMessage()
+comment7.text=\r\n\ printMessage()\ -\ to\ print\ a\ message\ whenever\ Lumi\ touches\ the\ heart\r\n
+numComments=8

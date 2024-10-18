@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cactus
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Cactus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ deductPoints()
+comment2.text=\r\n\ deductPoints()\ -\ to\ remove\ points\ when\ Lumi\ touches\ a\ cactus\r\n
+comment3.params=
+comment3.target=void\ reviveLumi()
+comment3.text=\r\n\ reviveLumi()\ -\ to\ revive\ Lumi\ when\ life\ count\ is\ higher\ than\ 0.\r\n
+comment4.params=
+comment4.target=void\ printMessage()
+comment4.text=\r\n\ printMessage()\ -\ to\ print\ a\ message\ whenever\ Lumi\ touches\ the\ cactus\r\n
+numComments=5

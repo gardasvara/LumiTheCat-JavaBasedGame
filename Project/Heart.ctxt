@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Heart
+comment1.params=
+comment1.target=Heart()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Heart\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ switchImage()
+comment3.text=\r\n\ switchImage()\ -\ to\ animate\ the\ heart\r\n
+comment4.params=
+comment4.target=void\ gainPoints()
+comment4.text=\r\n\ gainPoints()\ -\ to\ gain\ points\ if\ Lumi\ touches\ and\ picks\ up\ the\ heart.\r\n
+comment5.params=
+comment5.target=void\ printMessage()
+comment5.text=\r\n\ printMessage()\ -\ to\ print\ a\ message\ whenever\ Lumi\ touches\ the\ heart\r\n
+numComments=6

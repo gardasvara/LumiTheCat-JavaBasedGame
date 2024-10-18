@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Water
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Water\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ deductLife()
+comment2.text=\r\n\ deductLife()\ -\ To\ decrease\ life\ count\ when\ Lumi\ touches\ the\ deep\ water.\r\n
+comment3.params=
+comment3.target=void\ reviveLumi()
+comment3.text=\r\n\ reviveLumi()\ -\ To\ revive\ Lumi\ if\ life\ count\ is\ higher\ than\ 0.\r\n
+comment4.params=
+comment4.target=void\ printMessage()
+comment4.text=\r\n\ printMessage()\ -\ To\ print\ a\ message\ when\ Lumi\ is\ touching\ the\ deep\ water.\r\n
+numComments=5

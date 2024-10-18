@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=
+comment1.target=Rectangle()
+comment1.text=\r\n\ Default\ Constructor\r\n
+comment2.params=score\ lifeCount
+comment2.target=Rectangle(int,\ int)
+comment2.text=\r\n\ Constructor\ with\ two\ parameters\r\n
+comment3.params=score\ lifeCount\ fontSize
+comment3.target=Rectangle(int,\ int,\ int)
+comment3.text=\r\n\ Constructors\ with\ three\ parameters\r\n
+numComments=4

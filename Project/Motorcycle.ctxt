@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Motorcycle
+comment1.params=
+comment1.target=Motorcycle()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=rotation
+comment2.target=Motorcycle(int)
+comment2.text=\r\n\ Constructor\ with\ one\ parameter(rotation)\ -\ rotates\ the\ motorcycle\ to\ opposite\ direction\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Car\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ removeLumi()
+comment4.text=\r\n\ removeLumi()\ -\ to\ remove\ Lumi\ from\ the\ World\ and\ replace\ health\ Lumi\ with\ Lumi\ with\ blood.\r\n
+comment5.params=
+comment5.target=void\ deductLife()
+comment5.text=\r\n\ deductLife()\ -\ to\ remove\ points\ when\ Lumi\ touches\ the\ red\ motorcycle.\r\n
+comment6.params=
+comment6.target=void\ reviveLumi()
+comment6.text=\r\n\ reviveLumi()\ -\ to\ bring\ back\ Lumi\ if\ life\ count\ is\ higher\ than\ 0.\r\n
+comment7.params=
+comment7.target=void\ printMessage()
+comment7.text=\r\n\ printMessage()\ -\ to\ print\ a\ message\ when\ Lumi\ touches\ the\ red\ motorcycle.\r\n
+numComments=8

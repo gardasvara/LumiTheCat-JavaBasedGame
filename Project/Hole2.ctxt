@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Hole2
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Hole1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ removeLumi()
+comment2.text=\r\n\ removeLumi()\ -\ to\ remove\ Lumi\ from\ the\ World\ and\ bring\ him\ back\ to\ his\ initial\ position\ in\ that\ level.\r\n
+comment3.params=
+comment3.target=void\ deductLife()
+comment3.text=\r\n\ deductLife()\ -\ to\ remove\ a\ life\ when\ Lumi\ touches\ the\ holes.\r\n
+comment4.params=
+comment4.target=void\ reviveLumi()
+comment4.text=\r\n\ reviveLumi()\ -\ bring\ back\ Lumi\ to\ initial\ position.\r\n
+comment5.params=
+comment5.target=void\ printMessage()
+comment5.text=\r\n\ printMessage()\ -\ to\ print\ a\ message\ when\ Lumi\ touches\ a\ hole\r\n
+numComments=6
